@@ -37,8 +37,8 @@ body {
     --custom-spoiler-color: rgb(139, 0, 0);
     --box-shadow: 0 0 10px 0px black;
 
-    --custom-logo: url('https://ungiglio.github.io/DiscordDiscordia/awkglass_code/assets/LandeDiscordia.png');
-    --custom-logo-hover: url('https://ungiglio.github.io/DiscordDiscordia/awkglass_code/assets/LandeDiscordiaHover.png');
+    --custom-logo: url('https://raw.githubusercontent.com/WillyDill/theemee/main/spiderdiscred.png');
+    --custom-logo-hover: url('https://raw.githubusercontent.com/WillyDill/theemee/main/spiderdiscwhite.png');
 
     /*other*/
     --highlight: rgb(var(--rgb-highlight));
