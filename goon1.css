@@ -9,6 +9,20 @@
 /*@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css');*/   /* credits to mwittrien for the original code */
 @import url("https://ungiglio.github.io/DiscordDiscordia/awkglass_code/colored_userlist/userlist.css");
 
+body {
+    background-color: black !important;
+}
+
+.theme-dark .container-2cd8Mz {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+
+body {
+    border: 10px solid red !important;
+}
+
+
 :root,
 .theme-dark,
 .theme-light {
