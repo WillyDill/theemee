@@ -1038,7 +1038,7 @@ span.button__67645.redGlow__67645 {
 }
 
 .scroller__629e4::-webkit-scrollbar-thumb {
-    background: rgba(43, 45, 49, 0);
+    background: rgb(17, 18, 18);
 }
 
 .scroller__36d07::-webkit-scrollbar {
@@ -1266,11 +1266,11 @@ button:has([d=" M7,-6 C7,-7.6570000648498535 5.6570000648498535,-9 4,-9 C4,-9 3.
 }
 
 .spine__5b40b {
-    color: rgb(121, 121, 121);
+    color: rgb(0, 0, 0);
 }
 
 .spineBorder__5b40b {
-    background: rgb(121, 121, 121);
+    background: rgb(0, 0, 0);
 }
 
 .containerDefault_c69b6d:hover .spineBorder__5b40b {
@@ -1423,7 +1423,7 @@ button:has([d=" M7,-6 C7,-7.6570000648498535 5.6570000648498535,-9 4,-9 C4,-9 3.
 
 .input__0f084 {
     /* settings inputs bg color */
-    background-color: rgba(35, 35, 35, 0.596);
+    background-color: rgba(16, 15, 18, 0.596);
 }
 
 .checked__87bf1 path {
@@ -1470,7 +1470,7 @@ button:has([d=" M7,-6 C7,-7.6570000648498535 5.6570000648498535,-9 4,-9 C4,-9 3.
 .footer__49fc1,
 .bd-modal-footer {
     /* modal footer color */
-    background-color: rgba(35, 35, 35, 0.75);
+    background-color: rgba(16, 15, 18, 0.75);
     border-radius: 10px;
 }
 
@@ -1493,7 +1493,7 @@ button:has([d=" M7,-6 C7,-7.6570000648498535 5.6570000648498535,-9 4,-9 C4,-9 3.
 
 .defaultTextInputWrapper__7b848 {
     /* poll creation responses input area */
-    background-color: rgba(35, 35, 35, 0.596);
+    background-color: rgba(16, 15, 18, 0.596);
 }
 
 .defaultTextInputWrapper__7b848 input {
@@ -1503,12 +1503,12 @@ button:has([d=" M7,-6 C7,-7.6570000648498535 5.6570000648498535,-9 4,-9 C4,-9 3.
 
 .addAnswerButton_d97f89 {
     /* poll creation add response bg */
-    background-color: rgba(35, 35, 35, 0.596);
+    background-color: rgba(16, 15, 18, 0.596);
 }
 
 .addAnswerButton_d97f89:hover {
     /* poll creation add response bg (hover) */
-    background-color: rgba(35, 35, 35, 0.9);
+    background-color: rgba(16, 15, 18, 0.9);
 }
 
 .voiceChannelsButton__29444 {
@@ -1556,7 +1556,7 @@ button:has([d=" M7,-6 C7,-7.6570000648498535 5.6570000648498535,-9 4,-9 C4,-9 3.
 .visual-refresh .header_c656ac,
 .visual-refresh .container_a45028 {
     /* emoji tab */
-    background-color: rgba(35, 35, 35, 0.596);
+    background-color: rgba(16, 15, 18, 0.596);
 }
 
 .emojiItem_fc7141.emojiItemSelected_fc7141,
