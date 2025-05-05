@@ -33,7 +33,7 @@ background-color: rgb(36, 37, 38) !important;
     --background-primary: rgba(30, 30, 30, 0.26) !important;
     --background-secondary: rgba(0, 0, 0, 0.500) !important;
     --background-tertiary: rgba(0, 0, 0, 0.815) !important;
-    --background-modifier-hover: rgba(10, 10, 10, 0.500);
+    --background-modifier-hover: rgba(0, 0, 0, 0.500);
     --custom-spoiler-color: rgb(139, 0, 0);
     --box-shadow: 0 0 10px 0px black;
 
