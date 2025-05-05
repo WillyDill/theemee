@@ -37,8 +37,8 @@ body {
     --custom-spoiler-color: rgb(139, 0, 0);
     --box-shadow: 0 0 10px 0px black;
 
-    --custom-logo: url('https://raw.githubusercontent.com/WillyDill/theemee/main/spiderdiscred.png');
-    --custom-logo-hover: url('https://raw.githubusercontent.com/WillyDill/theemee/main/spiderdiscwhite.png');
+    --custom-logo: url('https://raw.githubusercontent.com/WillyDill/theemee/main/spiderdiscred-01.png');
+    --custom-logo-hover: url('https://raw.githubusercontent.com/WillyDill/theemee/main/spiderdiscwhite-01.png');
 
     /*other*/
     --highlight: rgb(var(--rgb-highlight));
