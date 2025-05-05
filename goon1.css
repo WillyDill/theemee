@@ -31,9 +31,9 @@ background-color: rgb(36, 37, 38) !important;
     --button-background: linear-gradient(60deg, var(--highlight), var(--highlight-darker));
     --button-background-static: var(--highlight);
     --background-primary: rgba(30, 30, 30, 0.26) !important;
-    --background-secondary: rgba(5, 0, 0, 0.500) !important;
-    --background-tertiary: rgba(0, 5, 0, 0.815) !important;
-    --background-modifier-hover: rgba(0, 0, 0, 0.500);
+    --background-secondary: rgba(50, 0, 0, 0.500) !important;
+    --background-tertiary: rgba(0, 50, 0, 0.815) !important;
+    --background-modifier-hover: rgba(0, 0, 50, 0.500);
     --custom-spoiler-color: rgb(139, 0, 0);
     --box-shadow: 0 0 10px 0px black;
 
