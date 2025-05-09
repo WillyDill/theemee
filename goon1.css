@@ -1891,18 +1891,7 @@ span[class*="timestampInline_"] {
     color: var(--brand-200);
 }
 
-.image-3LdmFl {
-  border: 1px solid rgba(255, 255, 255, 0); /* Set the border color to transparent */
-}
-
-
-img:focus {
-  outline: none; /* Removes the default outline */
-  border: none;  /* Removes any border */
-}
-
-img:focus {
+img:focus, img:active {
     outline: none;
     border: none;
 }
-
