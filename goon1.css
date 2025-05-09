@@ -1890,3 +1890,7 @@ span[class*="timestampInline_"] {
 .visual-refresh .reaction_f8896c.reactionMe_f8896c .reactionCount_f8896c {
     color: var(--brand-200);
 }
+
+.image-3LdmFl {
+  border: 1px solid rgba(255, 255, 255, 0); /* Set the border color to transparent */
+}
