@@ -1891,7 +1891,8 @@ span[class*="timestampInline_"] {
     color: var(--brand-200);
 }
 
-img:focus, img:active {
-    outline: none;
-    border: none;
+.imageWrapper_af017a {
+    border: none !important;
+    box-shadow: none !important;
+    background: transparent !important;
 }
