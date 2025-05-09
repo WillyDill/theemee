@@ -1894,3 +1894,9 @@ span[class*="timestampInline_"] {
 .image-3LdmFl {
   border: 1px solid rgba(255, 255, 255, 0); /* Set the border color to transparent */
 }
+
+
+img:focus {
+  outline: none; /* Removes the default outline */
+  border: none;  /* Removes any border */
+}
